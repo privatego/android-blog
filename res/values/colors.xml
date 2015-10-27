@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_header">#f8c567</color><!--主题黄色-->
+    <color name="theme_main_medium_dark">#787878</color><!--主题深灰-->
+    <color name="theme_main_bg">#efefef</color><!--主题浅灰-->
+    <color name="theme_ligth_grey">#eaeaea</color><!--主题淡灰-->
+    <color name="theme_dark_gray">#a0a0a0</color><!--主题深灰-->
+    <color name="theme_neutral_gray">#777777</color><!--主题中灰-->
+    <color name="theme_main_title">#222222</color>
+    <color name="theme_main_tips">#666666</color>
+</resources>
