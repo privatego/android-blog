@@ -11,6 +11,11 @@
             android:text="Android侧滑菜单"
             />
 
+    <Button android:id="@+id/btn_animation"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Android动画"
+            />
 
 </LinearLayout>
 

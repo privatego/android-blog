@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">blog</string>
     <string name="str_slidingmenu_title">测滑菜单示例</string>
+    <string name="str_animation">动画示例</string>
 </resources>
